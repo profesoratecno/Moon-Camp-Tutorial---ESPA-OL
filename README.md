@@ -1,3 +1,4 @@
 # Moon-Camp-Tutorial---ESPAÑOL
-DISCOVERY = DESCUBRIMIENTO
+##DISCOVERY = DESCUBRIMIENTO
 
+[ENLACE A WIKI: TUTORIAL CAMPAMENTO LUNAR EN ESPAÑOL](https://github.com/profesoratecno/Moon-Camp-Tutorial---ESPA-OL/wiki)
