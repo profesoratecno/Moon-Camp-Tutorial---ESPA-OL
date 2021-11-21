@@ -1,2 +1,2 @@
-# Moon-Camp-Tutorial---ESPA-OL
+# Moon-Camp-Tutorial---ESPAÑOL
 DISCOVERY = DESCUBRIMIENTO
